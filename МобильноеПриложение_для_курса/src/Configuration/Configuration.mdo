@@ -15,6 +15,7 @@
   <defaultRunMode>ManagedApplication</defaultRunMode>
   <usePurposes>MobileDevice</usePurposes>
   <scriptVariant>Russian</scriptVariant>
+  <version>10.0.2</version>
   <defaultLanguage>Language.Русский</defaultLanguage>
   <dataLockControlMode>Managed</dataLockControlMode>
   <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
